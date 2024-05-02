@@ -1,0 +1,13 @@
+{
+    "name": "Apoteker",
+    "alias": "apoteker",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Apoteker\\Providers\\ApotekerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+1. Pindahkan kode di zip kedalam folder baru di htdocs
+2. Buka file database_luki.sql
+3. Salin kode sql
+4. Buka phpmyadmin dan buat database baru
+5. Buka database yang telah dibuat lalu buka tab SQL di phpmyadmin
+6. Paste kode sql sebelumnya lalu klik Go
+7. Setelah dipaste, buka visual studio code dan buka folder project.
+8. Buka file .env lalu ubah value pada bagian DATABASE NAME, dan DATABASE PASSWORD (kosongi saja)
+9. Save lalu buka website di chrome pada Umumnya.
+
+Admin:admin@tugas.com
+Dokter:dokter@tugas.com
+Apoteker:apoteker@tugas.com
+Perawat:perawat@tugas.com
+
+Semua password default: 123456 (angka saja)

@@ -1,0 +1,13 @@
+{
+    "name": "Perawat",
+    "alias": "perawat",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Perawat\\Providers\\PerawatServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
